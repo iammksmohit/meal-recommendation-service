@@ -1,0 +1,7 @@
+{
+  "restaurants": ["Offline Restaurant A", "Offline Restaurant B"],
+  "recipes": [
+    { "name": "Offline Recipe 1", "calories": "250", "url": "http://offline-recipe1.com" },
+    { "name": "Offline Recipe 2", "calories": "300", "url": "http://offline-recipe2.com" }
+  ]
+}
